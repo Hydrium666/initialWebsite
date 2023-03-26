@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800mm"
+   height="110mm"
+   viewBox="0 0 800 110"
+   version="1.1"
+   id="svg19419"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="test.svg">
+  <defs
+     id="defs19413">
+    <linearGradient
+       id="linearGradient34809"
+       inkscape:collect="always">
+      <stop
+         id="stop34805"
+         offset="0"
+         style="stop-color:#005800;stop-opacity:1;" />
+      <stop
+         id="stop34807"
+         offset="1"
+         style="stop-color:#005800;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-1151.4359"
+       x2="2834.8899"
+       y1="-1151.4359"
+       x1="133.81494"
+       id="linearGradient34813"
+       xlink:href="#linearGradient34809"
+       inkscape:collect="always" />
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(28573.1,0,0,-31243.4,24000,16500)"
+       spreadMethod="pad"
+       id="0">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.301676"
+         id="stop14" />
+      <stop
+         style="stop-opacity:1;stop-color:#8d9093"
+         offset="1"
+         id="stop16" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1344.3528"
+     inkscape:cy="-178.16393"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g10"
+     showgrid="false"
+     units="mm"
+     width="400mm"
+     inkscape:pagecheckerboard="true"
+     showborder="true"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata19416">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-187)">
+    <g
+       id="g20101"
+       transform="matrix(0.26458333,0,0,0.26458333,-581.54584,-550.70654)">
+      <g
+         transform="matrix(1.3333333,0,0,-1.3333333,0.00103947,3359.7771)"
+         inkscape:label="ink_ext_XXXXXX"
+         id="g8">
+        <g
+           transform="matrix(0.10539323,0,0,0.11697256,2222.2517,-1429.644)"
+           id="g10">
+          <path
+             inkscape:connector-curvature="0"
+             id="path12"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.45225492"
+             d="M 16186.438,-5786.7763 H -7372.8324 v 7813.531 H 16186.438 v -7813.531" />
+          <path
+             inkscape:transform-center-y="149.25373"
+             inkscape:connector-curvature="0"
+             id="path16"
+             style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.45471048"
+             d="m 6794.8199,14785.287 h -627.828 c -23.781,0 -41.315,23.079 -35.737,47.085 l 212.726,919.956 c 9.459,40.828 -42.206,65.251 -65.674,31.05 l -978.728,-1427.923 c -17.312,-25.257 0.05,-60.291 29.936,-60.291 h 627.828 c 23.781,0 41.27,-23.08 35.737,-47.086 l -212.726,-919.956 c -9.458,-40.828 42.206,-65.251 65.63,-31.049 l 978.772,1427.876 c 17.311,25.303 -0.08,60.338 -29.936,60.338" />
+        </g>
+        <flowRoot
+           transform="matrix(0.75000002,0,0,-0.75000002,0,3000.0001)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;line-height:1.25;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1971"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="flowRegion1973"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="2830.5085"
+               x="254.23729"
+               height="1423.7289"
+               width="4372.8813"
+               id="rect1975" /></flowRegion><flowPara
+             id="flowPara1977" /></flowRoot>        <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:'Curlz MT';-inkscape-font-specification:'Curlz MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1979"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1981"><rect
+               y="2983.0508"
+               x="-50.847458"
+               height="457.62714"
+               width="305.08475"
+               id="rect1983" /></flowRegion><flowPara
+             id="flowPara1985" /></flowRoot>        <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:'Curlz MT';-inkscape-font-specification:'Curlz MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1987"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1989"><rect
+               y="2966.1018"
+               x="254.23729"
+               height="118.64407"
+               width="830.50848"
+               id="rect1991" /></flowRegion><flowPara
+             id="flowPara1993" /></flowRoot>        <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot34194"
+           xml:space="preserve"><flowRegion
+             id="flowRegion34196"><rect
+               y="2830.5085"
+               x="932.20337"
+               height="372.88135"
+               width="1966.1017"
+               id="rect34198" /></flowRegion><flowPara
+             id="flowPara34200" /></flowRoot>        <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot34777"
+           xml:space="preserve"><flowRegion
+             id="flowRegion34779"><rect
+               y="2888.0598"
+               x="664.17908"
+               height="373.13434"
+               width="2462.6865"
+               id="rect34781" /></flowRegion><flowPara
+             id="flowPara34783" /></flowRoot>        <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot34789"
+           xml:space="preserve"><flowRegion
+             id="flowRegion34791"><rect
+               y="2947.7612"
+               x="686.56714"
+               height="261.19403"
+               width="328.35822"
+               id="rect34793" /></flowRegion><flowPara
+             id="flowPara34795" /></flowRoot>        <text
+           transform="scale(1,-1)"
+           id="text34799"
+           y="-861.94031"
+           x="996.26862"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.75"
+             y="-825.86182"
+             x="996.26862"
+             id="tspan34797"
+             sodipodi:role="line" /></text>
+        <text
+           transform="scale(1.0350124,-0.966172)"
+           id="text34803"
+           y="-212.01816"
+           x="3769.7808"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.66264343px;line-height:1.25;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#003600;fill-opacity:1;stroke:none;stroke-width:0.66909987"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.66264343px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#003600;fill-opacity:1;stroke-width:0.66909987"
+             y="-212.01816"
+             x="3769.7808"
+             id="tspan34801"
+             sodipodi:role="line"> H Y D R I U M      E N E R G Y</tspan></text>
+      </g>
+      <g
+         transform="translate(0,147.23709)"
+         inkscape:label="ink_ext_XXXXXX 2"
+         id="layer2" />
+      <g
+         transform="translate(0,147.23709)"
+         inkscape:label="ink_ext_XXXXXX 1"
+         id="layer1-9" />
+    </g>
+  </g>
+</svg>
