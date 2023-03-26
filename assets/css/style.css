@@ -240,7 +240,7 @@ section {
 }
 
 .header h1 {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 500;
 }
 
@@ -493,7 +493,7 @@ section {
 --------------------------------------------------------------*/
 
 .hero {
-    width: 100%;
+    width: 90%;
     height: 100vh;
     /* background: url(../img/hero-bg.png) top center no-repeat;
     background-size: cover; */
